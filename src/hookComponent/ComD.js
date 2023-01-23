@@ -10,6 +10,7 @@ function ComD() {
       <button onClick={() => countContext.dispatchC('increament')}>increament</button>
       <button onClick={() => countContext.dispatchC('decreament')}>increament</button>
       <button onClick={() => countContext.dispatchC('reseat')}>increament</button>
+      <button onClick={() => countContext.dispatchC('increament')}>increament</button>
     </div>
   )
 }
